@@ -11,5 +11,5 @@ Bootloader Micronucleus
 
 adicionar a URL: https://raw.githubusercontent.com/Franzininho/franzininho-arduino-package/master/package_franzininho_index.json
 
-adicionar para teste a URL: https://raw.githubusercontent.com/lcgamboa/franzininho-arduino-package/master/package_franzininho_index.json
+adicionar para teste a URL: https://raw.githubusercontent.com/lcgamboa/franzininho-arduino-package/master/package_franzininho_lcgamboa_index.json
 
