@@ -4,7 +4,7 @@
 menu.speed=Speed
 #menu.core=Core
 menu.msg=Info
-
+menu.opt=Otimização
 
 # ATtiny85 @ internal 16.5MHz
 tiny85.name= Franzininho DIY
@@ -57,3 +57,14 @@ franzininho-sim.upload.maximum_size=6012
 franzininho-sim.upload.wait_for_upload_port=false
 franzininho-sim.upload.use_1200bps_touch=false
 franzininho-sim.upload.disable_flushing=false
+
+# Optimizations
+tiny85.menu.opt.oslto=Smallest (-Os) with LTO
+tiny85.menu.opt.oslto.build.flags.optimize=-Os -flto
+#tiny85.menu.opt.ogstd=Debug (-g)
+#tiny85.menu.opt.ogstd.build.flags.optimize=-Og
+
+franzininho-sim.menu.opt.oslto=Smallest (-Os) with LTO
+franzininho-sim.menu.opt.oslto.build.flags.optimize=-Os -flto
+franzininho-sim.menu.opt.ogstd=Debug (-g)
+franzininho-sim.menu.opt.ogstd.build.flags.optimize=-Og
