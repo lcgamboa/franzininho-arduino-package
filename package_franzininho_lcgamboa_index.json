@@ -46,7 +46,8 @@
                 "host":"x86_64-linux-gnu",
                 "url":"https://github.com/lcgamboa/franzininho-arduino-package/raw/master/arquivos/micronucleus-linux64.tar.gz",
                 "archiveFileName":"micronucleus-linux64.tar.gz",
-                "size":"34488"
+                "checksum": "SHA-256:ce42315a85adf484ff44f023338a127a4bfe17fa6a58294870bb12985dda02ac",
+		"size":"34488"
             },
             {
                 "host":"i686-linux-gnu",
