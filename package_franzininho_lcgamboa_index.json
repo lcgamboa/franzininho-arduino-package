@@ -16,7 +16,7 @@
           "help": {"online": "http://www.franzininho.com.br"},
           "url": "https://github.com/lcgamboa/franzininho-arduino-package/raw/master/franzininho-avr-02.zip",
           "archiveFileName": "franzininho-avr-02.zip",
-          "size": "336861",
+          "size": "337013",
           "boards": [
             {"name": "Franzininho DIY"}
           ],
